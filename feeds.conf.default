@@ -17,5 +17,5 @@ src-git small https://github.com/kenzok8/small
 #src-git helloworld1 https://github.com/sbwml/openwrt_helloworld
 #src-git AdGuardHome https://github.com/AdguardTeam/AdGuardHome
 #src-git bypass https://github.com/kiddin9/openwrt-bypass.git
-
+src-git https://github.com/kiddin9/openwrt-packages
 
